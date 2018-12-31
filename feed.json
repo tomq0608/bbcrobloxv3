@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "BBC Roblox",
+    "description": "",
+    "home_page_url": "https://xxtom00.github.io/bbcrobloxv3",
+    "feed_url": "https://xxtom00.github.io/bbcrobloxv3/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "xxtom00"
+    },
+    "items": [
+        {
+            "id": "https://xxtom00.github.io/bbcrobloxv3/latest-headlines-and-best-christmas-outfits-bbc-breakfast.html",
+            "url": "https://xxtom00.github.io/bbcrobloxv3/latest-headlines-and-best-christmas-outfits-bbc-breakfast.html",
+            "title": "Latest Headlines &amp; Best Christmas Outfits - BBC Breakfast",
+            "content_html": "<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/UhCuRJzpIH4\" allowfullscreen=\"allowfullscreen\"></iframe></figure>",
+            "image": "https://xxtom00.github.io/bbcrobloxv3/media/posts/1/",
+            "author": {
+                "name": "xxtom00"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-12-31T14:38:34+00:00",
+            "date_modified": "2018-12-31T14:44:27+00:00"
+        }
+    ]
+}
